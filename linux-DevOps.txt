@@ -1,0 +1,47 @@
+
+                         IMPORTANT OF LINUX IN DEVOPS - 
+
+
+
+        FASTER DEVELOPMENT IN LINUX -
+
+            THE main goal of devops is to building software in faster phase. 
+
+
+        OPENSOURCE -
+
+            As linux is open souce so custumzation aspect is particular importance in DevOps .
+
+        Flexible - 
+
+            Linux is highly flexible that it can be install in any devce and configure to work flow  .
+
+        Scalble - 
+
+           Linux is highly Scaleble that it can process highly amount of data and esily configure to proccesing
+           power and stirage capacity.     
+
+
+
+
+                              LINUX ADMINISTRATION - 
+
+
+       One of the function that apart a linux is way to install the application . 
+
+       Linux Administration is about managing system operation such as :
+
+                 Some of these operation are - 
+
+            1. File backup and restoration .
+            2. Diaster Recovery . 
+            3. New System Built.
+            4. Hardware Software and user maintainance . 
+            5. File System House keeping .
+            6. Application installation and Configration . 
+
+
+
+--------  
+
+              
