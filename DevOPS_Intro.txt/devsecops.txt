@@ -1,0 +1,43 @@
+    
+
+        DEVSECOPS - 
+
+
+DEVELOPMENT SECURITY OPERATION 
+
+Idea behind is integrating of security pratices in devops methology 
+
+devsecops offer faster security in code with contineous collaboration 
+
+
+BENIFIT OF DEV SEC OPS -
+
+  RAPID COST EFFECTIVE SOFTWARE DELIVERY 
+
+  ACCELARAED SECURITY VALUNERBILITY
+
+  REPETABLE AND ADOPTIVE PROCESS
+
+  AUTOMATION COMPATIBLE WITH MODERN DEPLOYMENT 
+
+                            
+                             DEVOPS ON CLOUD . -
+
+
+
+                FEATURE OF THE CLOUD - 
+
+        SCABILITY 
+        ELASTICITY
+        AVABILITY
+        RELIABLITY
+        MANAGEBILITY
+        INTEROPEBILLITY
+        ACCESSBILITY
+        PORTABILITY
+        PERFORMSNCE
+        OPTIMIZATIN 
+
+
+                  CLOUD SERVICES ARE - 
+                  
