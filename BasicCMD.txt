@@ -48,32 +48,63 @@ HOW MY COMPUTER KNOW LOCATION OF FILE ?
     MOVE COMMAND 
 
     mv name.txt random { file will move inside random }
+
     mv file.txt rename.txt{ it change the name of file }
+
     mv name.txt../newname.txt {change the name and rename same time }
+
     rm filename{ for remove the file }
+
     rm -Rf{ use for forcely seleted files}
+
     sudo{super user do}
+
     df{ system Command and disk space uses }
+
     df -m { if you want to saw in mb}
+
     df -h{ In human readle format }
+
     du { disk uses statics that file i have}
+
     head { show the first ten line}
+
     head -n 4 { show the four lines}
+
     tail { Show for last one lines }
+
     diff { compare the files }{output lines that are not match }
+
     locate *.txt { search the files}
+    
+
     find .{ find to somethng }
+    
     find .. { previous directory }
+    
     find . -type d { find in current directory type should be folder }
+    
     find . -type f{ show all the files}
+    
     find . -type f  -name "file name"
+    
     filename* {for start withe file name }
+    
     find . -type f maxdepth 1{ find file in 1 sub floder }
+    
     find . -size 1k { find size according to size }
+    
     find . -perm 777 { find all file for read write execuate }
+    
     ls -l filename{ show read write excuate for usser group other.}
+    
     chmod u=rwx,g=rw,o=r  filename{ for change the permission}
-   4 =read , 2=write , 1 =excuate , 0= no permission 
+    4 =read , 2=write , 1 =excuate , 0= no permission  
 
+   sudo or su    { Change the current user  to root user }` 
 
-    sudo or su    { Change the current user  to root user }` 
+   apt-get { package manager to install and remove the package}
+
+   History { Display previous use Command}
+
+   
