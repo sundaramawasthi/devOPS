@@ -1,0 +1,24 @@
+                      
+                                 DevOps -
+
+            Its is set of practices that aim to offer superior quality software by integrating
+            the process by Devlopment and operating team. 
+
+
+            DEvOPS AIM at -
+    
+
+    DevOps allow us single team that devlop devops lifecycle . 
+
+     development, testing, monitoring .
+
+     feature licycle , Provide upgrade , and fixes the bugs . 
+
+
+    cycle of deVoops - ! 
+
+     PLAN->CREATE->VARIFY->PACKAGE->RELEASE->CONFIGURE->MONITOR 
+
+     deVLOPMENT-> PLAN.CREATE,VERIFY,PACKAGE.
+     OPERATION -> RELEASE , CONFIGURE, MONITOR.
+
