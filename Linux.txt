@@ -1,0 +1,62 @@
+              OBJECTIVE - 
+              
+              WORKFLOW OF LINUX OPERATING SYSTEM - 
+              POPULAR LINUX DISTRIBUATION
+              IMPORTANCE OF LINUX IN DEVOPS
+
+
+LINUX INTRODUCTION -
+
+LINUX IS OPEN SOURCE OPERATING SYSTEM THAT MANAGE THE COMMNUCATION BETWEEN SOFTWARE AND HARDWARE OF A SYSTEM -
+
+LINUX IS DEVELOPED BY LINUX TORVALDS IN 1991 . 
+
+
+COMPONENT OF LINUX -
+
+1. Boot-loader - 
+
+       Software that manage the booting process of the system . 
+
+2. Kernal - 
+
+       Its a core of the system that manage the CPU , memory , and pheripheral device and is the all basic level of 
+       operating system . 
+
+3. Init System - 
+     
+       The is always excuate by linux system after the early stage of boot up compleation by  the 
+       boot loader. 
+       Then Init start all the deman and backgroud process that start to operating System . 
+
+4.Daemons - 
+
+       Its a background services such as printing sound and scheduling . 
+       that start when system booted . 
+
+5. Graphical Server . 
+
+       A subsytem that display graphics on monitor Commonly refresed as an X server or X . 
+
+6. Desktop envirment - 
+
+      The component with which user intract more and includes built in application . 
+
+7. Application - 
+
+      Desktop envirment do not offer full access of the app but these application can be install as your
+      requirement . Linux offer thousand of offer that can be install and use . 
+
+
+------ 
+
+
+       LINUX DISTRIBUATION  -
+UBUNTU
+DEBIAN
+CENTOS
+FEDORA
+LINUXMINT
+OPENSUSE
+ARCHLINUX
+ELEMENTARY OS 
