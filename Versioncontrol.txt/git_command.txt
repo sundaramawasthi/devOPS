@@ -1,0 +1,52 @@
+
+
+
+      Global setting in Git - 
+
+
+      Setup user Detail .
+
+            Configure the user name and email address .
+
+             git config --global user.name"username"
+
+             git config --global user.email"user email"
+
+
+       CREATE A NEW REPOSITIORY -
+
+            git init { for create a new repositiory}
+
+       CLONE EXISTING REMOTE REPOSITIORY
+         
+            git clone [url]
+        
+        Check THE STATUS OF FILE -
+
+            git status 
+
+        ADD THE STAGE AREA 
+
+            git add
+      
+        REMOVE THE FILE -
+
+        git rm "file name"
+
+        COMMIT CHANGES TO YOU LOCAL REPOSITIORY
+
+            git commit -m"mess"
+
+        GET LATEST VERSION OF THE REPOSITIORY 
+
+            git pull "branch name" "url"
+
+        PUSH THE FILE TO REMOTE -
+
+             git push 
+    
+        CONNECT TO THE REMOTE REPOSITIORY
+
+             git remote add origin server 
+
+        
