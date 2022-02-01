@@ -22,3 +22,23 @@
      deVLOPMENT-> PLAN.CREATE,VERIFY,PACKAGE.
      OPERATION -> RELEASE , CONFIGURE, MONITOR.
 
+
+
+   TRADITIONAL DEVELOPMENT APPROCH 
+
+   WATERFALL MODEL ->
+
+   Requirment->Designe->implemantation->verification->deploy->maintainance 
+
+
+   PROS ->
+   Simple and easy
+   easy testing
+   
+   Cons ->
+   Risky 
+   unceratin
+   not for large project
+   not suitable for change the project
+
+
