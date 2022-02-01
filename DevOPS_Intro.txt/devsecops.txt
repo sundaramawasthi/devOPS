@@ -41,3 +41,6 @@ BENIFIT OF DEV SEC OPS -
 
                   CLOUD SERVICES ARE - 
                   
+       IaaS {Provide virtulaization computer resource over the internet }
+       PaaS {Method where user built , deploy and test,debug,host}
+       SaaS{ Method of delivery application as a service}
