@@ -1,0 +1,38 @@
+
+
+   JENKINS SETTING UP - 
+
+   PREREQUITES - 
+
+   JAVA SHOULD BE INSTALL 
+TO CHECK JAVA USE { java --version}
+
+   ADD PUBLIC KEY TO THE SYSTEM 
+
+wget -q -O - https://pkg.jenkins.io/debian-stable/jenkins.io.key | sudo apt-key add -
+
+  ADD JENKINS REPOSITIORY TO YOUR SYSTEM -
+
+sudo sh -c 'echo deb http://pkg.jenkins.io/debian-stable binary/ > /etc/apt/sources.list.d/jenkins.list'
+
+DOWNLOAD PACKAGE CONFIGURE USE THE COMMAND -
+
+ sudo apt-get update
+
+INSTALL JENKINS PACAKGE 
+
+ sudo apt-get install jenkins
+
+CHECK THE STATUS OF THE SRVICE 
+
+ sudo service jenkins status
+
+COMMAND TO START A JENKINS SERVICE = 
+
+sudo systemctl start jenkins 
+
+FOR INSTALL JAVA ON UBANTU 
+
+ sudo apt install default-jre
+
+
