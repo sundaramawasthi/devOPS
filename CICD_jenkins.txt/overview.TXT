@@ -1,0 +1,105 @@
+OBJECtIVE -
+
+ BUILT CODE 
+ RUN TEST
+ SAFE DEPLOYMENT
+
+TOOLS
+
+ Jenkins
+ teamcity
+ cicle cicle
+ gitlab 
+
+
+
+JENKINS -> building, reporting , deployment , testing ,integrating .
+
+Achive CI with jenkins using git or maven 
+
+
+
+
+                                                  OVERVIEW - 
+
+
+                CICD PIPELINE -
+
+                    CICD pipeline automates your software delivery process. 
+
+                    PIPElINE do { Built Code , run test , Safe deployment}
+
+                    Automated pipeline remove manual error and provide stadralized feedback .
+
+
+                               CONTINEOUS INTEGARTION -
+
+                       It is development practice in which all developer code integrate as early as possible .
+  
+                        KEYPOINT IN CI -
+
+                                 NEED TO COMMIT THE CHANGES IN THE SOURCE CODE 
+                                 { EVERY COMMIT CHANGES IN THE SOURCE CODE IS THE BUILT}
+                                 REQUIRE RAGULAR BUILT 
+                                 WHENEVER CODE OCCUR BUILT SHOULD BE TRIGGER 
+                                  
+                        
+                    WHAT TASK WE SHOULD MUST ACHIVE IN ORDER TO CI - 
+
+                            LIST OF TASK INVOLVE IN CONTINEOUS INTEGRATION -
+
+                                1. GENERATING AND ANALYING REPORT 
+                                2. DEVELOPING AND COMPILING
+                                3 . PERFORMING FUNCTIONAL TEST AND LABLE CODE.
+                                4. PERFORMING UNIT TEST 
+                                5. PREPRODUCTION Deployment
+                                6. DATABASE INTEGRATION 
+                    
+
+
+                    ADVANTAGE OF CONTINEOUS INTEGRATION - 
+                      
+                Moniter the health of code coverage metrics
+
+                Reduce technical dept and maintance Cost 
+
+                Publicly visible Code quality metrices .
+
+                Automated end to end acceptance test 
+
+                Reduce risk by provide faster feedback 
+
+                Help identifying the fix integration and regression 
+
+                Help simply and accelerate delivery 
+
+                Automates deployment process.
+
+                allow quick access of software.
+
+
+                                         CONTIOUS DELIVERY -
+
+                                             Contineous delivery is extention of contineous integration.
+                                             After the  built stage automatic deploy all code changes.
+
+
+
+                                            CD PROCESS IS NOT AUTOMATED 
+                                            BUSINESS TEAM DECIDE THE BEST TIME TO DELIVER THE LATEST CHANGE
+                                             IN IMPLEMENT OF CD , GOAL IS TO DEPLOYMENT 
+
+
+                     CONTINEOUS DEPLOYMENT -
+
+                Contineous deployment is a step up of contineous delivery
+                in which every change deploy automatically without explicit prrocess
+
+                Its is a software release stragetgy in which each code commit that passes
+                automated testing is automatically sent to production 
+
+
+                       BENIFIT OF CONTINEOUS DEPLOYMENT - 
+
+                    FASTER RETURN 
+                    FASTER FEEDBACK 
