@@ -1,0 +1,33 @@
+
+   SCHEDULE JENKINS JOB 
+
+
+Schedule built simple trigger your built job at your ragular interval 
+This strategy can be use for ragular nighty bulb .
+They can be done something as simple as unix cronjob 
+Contineous integration required fast feedback then schedules built
+schedules built can be use in long running built job , where quick feedback is 
+less critical .
+
+
+
+
+              SYNTAX USE FOR JENKINS - 
+
+              jenkins use cron-style syntax -
+                 
+                    minuite  (0-59)
+                    hour(0-23)
+                    day of month(1-31)
+                    month(1-12)
+                    day of week(0-7)
+
+            SHORTCUT SYNTAX -
+
+                    **** { ONCE A MINUTE}
+                    M-N {1-5 MEANS MONDAY TO FRIDAY}
+                    / {DEFINE THE LIMIT RANGE  example - */15}
+
+
+
+    

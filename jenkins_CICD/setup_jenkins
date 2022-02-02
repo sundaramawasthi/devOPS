@@ -25,7 +25,7 @@ INSTALL JENKINS PACAKGE
 
 CHECK THE STATUS OF THE SRVICE 
 
- sudo service jenkins status
+ sudo service jenkins status  or sudo /etc/init.d/jenkins start
 
 COMMAND TO START A JENKINS SERVICE = 
 

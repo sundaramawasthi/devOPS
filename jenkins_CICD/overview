@@ -50,7 +50,7 @@ Achive CI with jenkins using git or maven
 
                                 1. GENERATING AND ANALYING REPORT 
                                 2. DEVELOPING AND COMPILING
-                                3 . PERFORMING FUNCTIONAL TEST AND LABLE CODE.
+                                3 .PERFORMING FUNCTIONAL TEST AND LABLE CODE.
                                 4. PERFORMING UNIT TEST 
                                 5. PREPRODUCTION Deployment
                                 6. DATABASE INTEGRATION 
