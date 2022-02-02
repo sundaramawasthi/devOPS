@@ -18,4 +18,12 @@
         IT CHECK THE VERION CONTROL AT RAGULAR INTERVAL 
         FOR ANY CHANGES THAT BEEN COMMITED 
 
+           WEB HOOK 
+
+        webhook  is one of the method to commnucate wiith one another
+        It help to transfer real time data from one application to another
+         
+           BUILT PRIODICALLY
+
+        its check project PRIODICALLY even nothing to change in it .
         
