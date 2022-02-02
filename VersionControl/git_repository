@@ -1,11 +1,11 @@
 
 
-    GIT REPOSITORY 
+                        GIT REPOSITORY 
 
 
 Git repository contain all project file and each of file is REVISION history.
 
-CHARACTERSTICS -
+                         CHARACTERSTICS -
 
 Access the file in your local repository 
 
@@ -19,7 +19,7 @@ Code project can have multiple repositiory
 
 Each repo has 2 gb size limit.
 
-      LIFE CYCLE OF GIT AND GITHUB -
+                    LIFE CYCLE OF GIT AND GITHUB -
 
 Repositiory - > you can clone repositiory as working copy / modify / review / commit / fix mistake -> push
 

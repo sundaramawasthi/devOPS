@@ -1,7 +1,7 @@
 
 
 
-      Global setting in Git - 
+                             Global setting in Git - 
 
 
       Setup user Detail .
@@ -31,7 +31,7 @@
       
         REMOVE THE FILE -
 
-        git rm "file name"
+            git rm "file name"
 
         COMMIT CHANGES TO YOU LOCAL REPOSITIORY
 
