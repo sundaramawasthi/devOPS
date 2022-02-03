@@ -1,0 +1,12 @@
+
+USE PLAY WITH DOCKER -
+
+RUN FIRST CONTAINER -
+
+command use -
+
+ docker container run alphine:3.6 uptime
+
+ ability to intract the container
+
+ 
