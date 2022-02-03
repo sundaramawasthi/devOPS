@@ -26,3 +26,15 @@
         
        DOWNLOAD CHROME DRIVER
        INTEGRATE SELIUM TO ECLIPSE
+
+
+
+       PROCESS -  OPEN  work station
+      1.  sudo apt install mlocate
+    2.   locate selemium 
+      3. sudo apt-get update 
+      4. sudo apt install selenium 
+      5. install chrome DRIVER
+      6. install sselenium
+      7. open eclipcs framework
+      
