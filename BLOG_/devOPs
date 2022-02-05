@@ -1,0 +1,69 @@
+
+AGENDA -
+  - devOps make our software devlopment process more efficient.
+
+
+  DEVOPS OVERVIEW
+  SOURCE CODE MANAGEMENT
+  MICROSYSTEM AND CONTANERIZATION
+  CONTINEOUS INTEGRATION
+  CONTINEOUS MONITORING
+
+
+
+  THE DevOps Journey -
+
+      Hey Everybody nice to see you here !
+    
+      I am Sundram Awasthi, student, flutter developer and a DevOpS,OpenSource euthisiam.
+      Recently Started my DevOps Journey ,In this Journey I earn achivement and knowledge.
+      I am here to share it because i think that would also helpfull to other people to there
+      DevOps Journey.
+
+
+      So , Lets get started with a beautifull question why DevOps ? 
+
+      Why DevOPs -
+
+        I think the first question arise in everyone mind in this journey is that why we learn 
+        devOps intead of we have many other approch that help to software development process
+        also.
+
+
+        IN A EARLY PERIOD FOR THE SOFTWARE DEVELOPMENT PROCESS WE HAVE A METHODOLOGY 
+        THAT CALLED A WATER FALL METHODOLOGY
+                    
+                     WATERFALL METHODOLOGY -
+                       
+                     WATER FALL METHODOLOGY IS ONE OF THE BASIC METHODOLOGY THAT USE IN many
+                     DIFFERENT PLACES .
+                     ITS HAS A MULTIPLE PHASES AS -
+                      REQUIRMENT->DESIGNEMENT->IMPLEMENT ->TESTING->DEPLOYMENT ->MAINTANCE 
+                       SO WE HAVE 6 PHASES OVER HERE -
+                       
+                       REQUIRMENT PHASE -{ IN REQUIRMENT PHASE BASICALLY PEOPLE SET TOGETHER AND SEE WHAT ARE THE REQUIRMENT 
+                       FOR THE PRODUCT FUNCTIONAL AND NON-FUNCTIONAL SERVICES THAT THEY ARE DEVELOPED. }
+
+                       DESIGNING PHASE -{ IN DESIGNING PHASE THEY START PLANING OF THESE THING BASE 
+                       ON REQUIRMENT THAT THEY ARE DISCUSS EARLIER , THEY ASSIGNE TASK TO SPECIFIC TEAM
+                       THEY SCHEDULE TASK TO HAPPENA AT A CERTAIN TIME THEY ALSO MAKE SURE THEY HAVE ENOUGH
+                       RESOURCE TO PERFORM CERTAIN TASK }
+
+                       IMPLEMENT PHASE -{IMPLEMENTAIO PHASSE IS PHASE WHERE YOU GO AND DEVELOPED
+                       THE  SOFTWARE}
+         
+                       TESTING - { IN TESTING PHASE WE GOHEAD AND TEST OUR SOFTWARE FOR A SPECIFIC
+                       THING ,TEST BASE OF REQUIRMENT, THEY DO INTEGRATING TESTING AND ETC}
+
+                       DEPLOYMENT -{ SOFTWARE IS GIVEN TO THE FINAL END USER , THAT USER START TO USE}
+
+                       MAINTANCE PHASE { IN MAINTAINANCE PHASE WE MAINTAIN THE SOFTWARE IF THERE IS ANY CRUSH ON IT}
+
+                       PROBLEM WITH WATERFALL MODEL -
+
+                         THE PROBLEM OCCUR WITH WATERFALL MODEL IS IT VERY LONG PROCESS GENERALLY IT TAKE MONTHS TO 
+                         COMPLETE IT .
+                         IN EARLY DAY WHEN WATERFALL MODEL COMES IT USED IN SOFTWARE DEVELOPMENT ALSO IN VARIOUS FILED,
+                         BUT IN TODAYS AGE USE HAVE MANY DIFFERNT KIND OF USE CASES AND DIFFERENT CENERIO WHERE YOU CON 
+                         NOT USE THESE MODEL.
+
