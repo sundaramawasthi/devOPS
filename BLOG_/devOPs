@@ -156,7 +156,7 @@ DEVOPS LIFECYCLE -
       Contineous Integration is essential Phase of devOPs which deal with software
       development .Frequently changes are made to source code.
 
-                 Its a practice where  developemnt required to commit there  souurce code more
+                 It's a practice where  developemnt required to commit there  souurce code more
                  effectively.
 
                  Building code is not only involve accomplation but it also include
@@ -198,6 +198,7 @@ WIDELY USE DEVOPS TOOLS -
         Tools are Categarized In seven part .
 
 SOURCE CODE MANAGEMENT -
+
 Source Code management use to track the modification to the source code repositiory.
 They track the running history of the changes to the code base and help
 resolve conflict when mergeing and update from multiple contribuation .
