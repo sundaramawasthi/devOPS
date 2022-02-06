@@ -228,15 +228,17 @@ Popular Tools that are use -
 TERAFORM , ANSSIBLE , PUPPET, CHEF, AWSCODE DEPLOYMENT,CODESHIP
 
 MONITORING -
+
 Monitoring application help in ensuring the product work correctly.
 
-popular tools use in monitoring are - NAGIOS, SPLUNK
+Popular tools use in monitoring are - NAGIOS, SPLUNK
 
 CONTANARIATION -
+
 Contanerzation is define as form of os virtulization in which application run .
 in issolated user spaace that called container.
 
-popular tools use in container are - DOCKER, KUBERNETES
+Popular tools use in container are - DOCKER, KUBERNETES
 
          BENIFIT IN DEVOPS -
 
