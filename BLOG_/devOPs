@@ -60,7 +60,6 @@ Why DevOps -
                         So for solveing this problem  We use DevOps approch that is very efficient and not take lot of time in software devlopment
                         Process.
 
-
 What is DevOPs -
 
         We can say that DevOps is basically the way of software development ,and It is set of value and Principle,
@@ -131,7 +130,7 @@ It give a certain principle for devOPs that is .
 
       Automation is associated with the goal of redefining how team delivery its dervices
 
-      DEVOPS LIFECYCLE -
+DEVOPS LIFECYCLE -
 
       DevOPs lifeCycle is based on five phase -
 
@@ -289,11 +288,3 @@ AUTOMATION COMPATIBLE WITH MODERN DEPLOYMENT
     yeah now Concluding it,  As we above discuss DevOPs is a methodology by which we bridge the gap
     between develperment and operation team . we also discuss about the various tools that are use in this
     methodology also we can saw a devSecOps that provide devOps more security.
-
-
-
-
-
-
-
-
