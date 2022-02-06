@@ -1,4 +1,5 @@
 TABLE OF CONTENTS -
+   
    Author
    Why DevOPs
    What is DevOPs
@@ -7,7 +8,6 @@ TABLE OF CONTENTS -
    DevOps Tools
    DevOps Benefit
    DevSecOps
-
    Conclusion
      
 Author -
@@ -15,11 +15,7 @@ Sundram Awasthi.
 
 Introduction-
 
-        Hey Everybody nice to see you here !
-        I am Sundram Awasthi, Student, flutter developer and DevOpS,OpenSource euthisiam.
-        In this Blog DevOps Journey I am going to touch few topics that you all should know before start your carrer in DevOps.
-        I think the first question arise in everyone mind in this journey is that why we learn devOps because instead of it, we have many other approch that also help to software development process. ?
-        So let try to find the answer .
+        
 
 
 
@@ -112,7 +108,7 @@ It give a certain principle for devOPs that is .
 
 1. - Customer centric action 
 
-        Short loop feedback with real customer and end user essential now days so for satisfiying the
+        Short loop feedback with real customer and end user essential nowTC days so for satisfiying the
         them companies must constantly innovate and invest in good abd services that would delight
         costomers to the greatest extends possible .
 
@@ -182,7 +178,7 @@ It give a certain principle for devOPs that is .
        CONTINEOUS DEPLOYMENT -
 
                 Contineous Deployment phase mean that it implement code correctly deploy to all 
-                production server .
+                production server 
 
                 The new code is contineously deploy and configration tools are required to
                 manage it effectively .
@@ -308,6 +304,12 @@ BENIFIT OF DEV SEC OPS -
 
 
     Conclusion  - 
+
+    yeah now Concluding it,  As we above discuss DevOPs is a methodology by which we bridge the gap
+    between develperment and operation team . we also discuss about the various tools that are use in this 
+    methodology also we can saw a devSecOps that provide devOps more security. 
+
+
 
     
         
