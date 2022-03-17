@@ -36,3 +36,11 @@ FOR INSTALL JAVA ON UBANTU
  sudo apt install default-jre
 
 
+
+
+
+
+
+cd /etc/
+cd init.d/
+sudo ./jenkins start
